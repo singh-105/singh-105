@@ -1,322 +1,291 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:5B2A86,100:8E2DE2&height=230&section=header&text=Harsh%20Singh&fontSize=54&fontColor=F0E6FF&animation=fadeIn&fontAlignY=36&desc=Building%20Agentic%20AI%20%26%20GenAI%20Systems&descAlignY=58&descSize=18&descColor=C9A9F0" width="100%"/>
+# 🌊 HARSH M SINGH
 
-<a href="https://github.com/singh-105">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=B983FF&center=true&vCenter=true&width=700&lines=ML%2FDL+%C2%B7+NLP+%C2%B7+Transformers;LangChain+%C2%B7+LangGraph+%C2%B7+RAG+Pipelines;Agentic+AI+%C2%B7+FastAPI+%C2%B7+Next.js%2FTypeScript;I+learn+by+shipping%2C+not+by+watching." alt="Typing SVG" />
-</a>
+### `AI Engineer` · `Full-Stack Developer` · `Data Science`
 
-<br/><br/>
+[![AI Intern](https://img.shields.io/badge/AI%20Intern-Deep%20Cytes-0b1220?style=for-the-badge\&logo=ai\&logoColor=7dd3fc)](https://github.com/singh-105)
+[![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20%7C%20Data%20Science-0b1220?style=for-the-badge\&logo=graduation-cap\&logoColor=38bdf8)](https://github.com/singh-105)
+[![Location](https://img.shields.io/badge/Mumbai%2C%20India-0b1220?style=for-the-badge\&logo=googlemaps\&logoColor=38bdf8)](https://github.com/singh-105)
 
-![Education](https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-1A1A2E?style=for-the-badge&logo=googlescholar&logoColor=B983FF)
-![Location](https://img.shields.io/badge/Mumbai-India-4B2E83?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/AI%20Intern-Deep%20Cytes-6A0DAD?style=for-the-badge&logo=vercel&logoColor=E6D6FF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge\&logo=linkedin\&logoColor=38bdf8)](https://www.linkedin.com/in/harsh-singh-5503372b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/singh-105)
+[![Profile Views](https://komarev.com/ghpvc/?username=singh-105\&style=for-the-badge\&color=0f172a\&label=PROFILE+VIEWS)](https://github.com/singh-105)
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:164e63&height=180&section=header&text=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20FIX&fontSize=34&fontColor=e0f2fe&animation=fadeIn&fontAlignY=35" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-singh-5503372b8/)
-[![Email](https://img.shields.io/badge/Email-Contact-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojrsingh1974@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-singh--105-1A1A2E?style=for-the-badge&logo=github&logoColor=B983FF)](https://github.com/singh-105)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=singh-105&label=Profile%20Views&color=6A0DAD&style=flat-square)
-![Followers](https://img.shields.io/github/followers/singh-105?label=Followers&style=flat-square&color=6A0DAD)
-![Stars](https://img.shields.io/github/stars/singh-105?label=Stars&style=flat-square&color=6A0DAD)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=20\&duration=2800\&pause=900\&color=7DD3FC\&center=true\&vCenter=true\&width=760\&lines=Building+AI+systems+that+actually+ship.;Agentic+AI+%7C+GenAI+%7C+Full-Stack+Engineering;From+prototype+to+production+under+real+constraints.)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## 🧠 About
 
 I build AI systems that leave the notebook and actually ship — full-stack, end-to-end, on a deadline.
 
-My range spans classic **ML/DL and NLP** (transformer architectures, fine-tuning, feature engineering) through to modern **agentic AI and GenAI product engineering** — multi-step pipelines that reason, retrieve, and act, wired into real frontends and shipped to production endpoints rather than left in a notebook.
+My work spans classic ML/DL and NLP through transformer architectures, fine-tuning, feature engineering, modern agentic AI, GenAI product engineering, RAG pipelines, and full-stack AI applications. I focus on connecting intelligent backends to usable interfaces and shipping complete systems rather than isolated experiments.
 
-I approach every build with a product-engineering mindset: define the constraint, ship the smallest working version, break it, and fix it under pressure. That's how CivicPulse, BlogAI, and Cortex-Lite all came together — real deadlines, real infrastructure limits, real trade-offs documented as I hit them.
+I approach engineering with a product mindset: define the constraint, ship the smallest working version, break it, and fix it. I am currently applying that approach as an **Artificial Intelligence Intern at Deep Cytes**, building production customer-support AI systems.
 
-Currently applying that at **Deep Cytes**, building production customer-support AI.
-
-```yaml
-Focus:
-  Learning:    Transformer/encoder internals, LangGraph orchestration patterns
-  Building:    Production customer-support AI @ Deep Cytes
-  Exploring:   Computer vision (SEM wafer-defect detection research)
-  Open To:     AI/ML Engineering roles · hackathons · hard problems
-```
-
-<br/>
+**Open To:** AI/ML Engineering · Full-Stack AI · Hackathons · Open-Source Projects · Hard Engineering Problems
 
 ---
-
-<br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-**Languages**
+[![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,html,css\&theme=dark)](https://skillicons.dev)
 
-![Python](https://skillicons.dev/icons?i=py&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+### AI / ML / GenAI
 
-**AI / ML / GenAI**
-
-![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![Sklearn](https://skillicons.dev/icons?i=sklearn&theme=dark)
+[![AI Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow\&theme=dark)](https://skillicons.dev)
 
 `LangChain` `LangGraph` `RAG Pipelines` `Transformers` `Groq LLaMA` `Ollama`
 
-**Frontend**
+### Frontend
 
-![React](https://skillicons.dev/icons?i=react&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,vite,typescript,tailwind\&theme=dark)](https://skillicons.dev)
 
-**Backend & Databases**
+### Backend & Databases
 
-![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
+[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,firebase,sqlite\&theme=dark)](https://skillicons.dev)
 
-**Cloud, DevOps & Tooling**
+### Cloud, DevOps & Tooling
 
-![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
-
-</div>
-
-<br/>
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode\&theme=dark)](https://skillicons.dev)
 
 ---
-
-<br/>
 
 ## 🤖 AI / ML Expertise
 
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Agentic AI / GenAI** | 🟣🟣🟣🟣⚪ | LangGraph multi-step agents, tool-calling, hybrid local/cloud model routing |
-| **RAG Pipelines** | 🟣🟣🟣🟣⚪ | Retrieval-augmented generation wired to FastAPI-backed services |
-| **NLP / Transformers** | 🟣🟣🟣⚪⚪ | Text-to-vector pipelines, encoder/transformer architectures, fine-tuning |
-| **Classic ML / DL** | 🟣🟣🟣⚪⚪ | Model building, evaluation, and feature engineering on real datasets |
-| **Full-Stack Delivery** | 🟣🟣🟣🟣⚪ | Next.js/TypeScript frontends wired to AI backends, deployed end-to-end |
-
-</div>
-
-<br/>
+| Domain                 | Proficiency | Details                                                                       |
+| ---------------------- | ----------- | ----------------------------------------------------------------------------- |
+| Agentic AI / GenAI     | 🟦🟦🟦🟦⬜   | LangGraph multi-step agents, tool calling, hybrid local/cloud model routing   |
+| RAG Pipelines          | 🟦🟦🟦🟦⬜   | Retrieval-augmented generation wired to FastAPI-backed services               |
+| NLP / Transformers     | 🟦🟦🟦⬜⬜    | Text-to-vector pipelines, encoder/transformer architectures, fine-tuning      |
+| Classic ML / DL        | 🟦🟦🟦⬜⬜    | Model building, evaluation, and feature engineering on real datasets          |
+| Full-Stack AI Delivery | 🟦🟦🟦🟦⬜   | Next.js/TypeScript frontends connected to AI backends and deployed end-to-end |
 
 ---
-
-<br/>
 
 ## 🚀 Featured Projects
 
-<details open>
-<summary><b>🌐 CivicPulse — AI-Powered Civic Issue Reporting Platform</b></summary>
-<br/>
+<details>
+<summary><strong>🌐 CivicPulse — AI-Powered Civic Issue Reporting Platform</strong></summary>
 
-Full-stack platform for reporting and tracking civic issues, built end-to-end under deadline pressure for the **Google Vibe2Ship Hackathon**.
+<br>
 
-| | |
-|---|---|
-| **Stack** | Next.js 14, TypeScript, Firebase Auth + Firestore, Groq LLaMA (vision analysis), Leaflet, Resend, Fast2SMS, OpenWeather |
-| **Scale** | Multi-service integration — auth, geospatial matching, real-time notifications, image analysis in one pipeline |
-| **Reliability** | Adapted around live constraints: swapped Google Maps for Leaflet after a loader conflict, moved image storage to Firestore (base64) after hitting the paid Blaze-tier wall |
-| **Security** | Hardened after an initial API-key exposure — migrated secrets to `.env.local` with proper `NEXT_PUBLIC_` scoping |
-| **Impact** | Shipped a working, judged submission end-to-end within the hackathon window |
-| **Repository** | [github.com/singh-105/civic-pulse](https://github.com/singh-105/civic-pulse) · [Live Demo](https://community-hero-66083.web.app) |
+A full-stack platform for reporting and tracking civic issues, built end-to-end under deadline pressure for the **Google Vibe2Ship Hackathon**.
+
+| Dimension                     | Engineering Details                                                                                                 |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Stack**                     | Next.js 14 · TypeScript · Firebase Auth · Firestore · Groq LLaMA Vision · Leaflet · Resend · Fast2SMS · OpenWeather |
+| **Scale**                     | Multi-service integration covering authentication, geospatial matching, real-time notifications and image analysis  |
+| **Performance / Reliability** | Adapted to live infrastructure constraints, including replacing Google Maps with Leaflet after a loader conflict    |
+| **Security**                  | Migrated exposed API secrets into `.env.local` with appropriate `NEXT_PUBLIC_` scoping                              |
+| **Impact**                    | Delivered a working, judged end-to-end submission within the hackathon window                                       |
+| **Repository**                | [github.com/singh-105/civic-pulse](https://github.com/singh-105/civic-pulse)                                        |
+| **Live Demo**                 | [Firebase Deployment](https://community-hero-66083.web.app/)                                                        |
 
 </details>
 
 <details>
-<summary><b>✍️ BlogAI — Agentic Blog Generation from Video & Topic</b></summary>
-<br/>
+<summary><strong>✍️ BlogAI — Agentic Blog Generation from Video & Topic</strong></summary>
 
-A LangGraph agent that turns YouTube videos and raw topics into finished, published blog posts.
+<br>
 
-| | |
-|---|---|
-| **Stack** | LangGraph, FastAPI, Groq LLaMA, Streamlit |
-| **Scale** | End-to-end pipeline from transcript ingestion to publish-ready draft, deployed frontend + backend |
-| **Reliability** | Solved a breaking change in the `youtube-transcript-api` (instance-based `.fetch()`), and added automatic language fallback for non-English source videos |
-| **Impact** | Fixed recurring title-duplication bug via prompt-level instructions, live and usable end-to-end |
-| **Repository** | [github.com/singh-105/agntic-blog-generation](https://github.com/singh-105/agntic-blog-generation) · [Live App](https://agntic-blog-generation-kv4avhdgfeghgazpkrbn4w.streamlit.app) |
+A LangGraph-powered agentic system that transforms YouTube videos and raw topics into publish-ready blog content.
 
-</details>
-
-<details>
-<summary><b>⚡ Cortex-Lite — Hybrid Token-Efficient Routing Agent</b></summary>
-<br/>
-
-A routing agent that decides, in real time, whether a query needs a fast local model or a larger cloud model — built for the **AMD Developer Hackathon Act II** (Track 1: Hybrid Token-Efficient Routing).
-
-| | |
-|---|---|
-| **Stack** | FastAPI, SQLite, React + Vite, Ollama (`qwen2.5:0.5b`) for local inference, Groq (`LLaMA 3.1 8B`) for cloud escalation |
-| **Scale** | Dual-path inference architecture — local-first with cloud escalation on complexity |
-| **Impact** | Live tool integration (`wttr.in`) to demonstrate routed queries beyond static classification |
+| Dimension                     | Engineering Details                                                                                                    |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Stack**                     | LangGraph · FastAPI · Groq LLaMA · Streamlit                                                                           |
+| **Scale**                     | End-to-end pipeline from transcript ingestion to publish-ready draft with deployed frontend and backend                |
+| **Performance / Reliability** | Resolved a breaking `youtube-transcript-api` change and implemented automatic language fallback                        |
+| **Security**                  | Service architecture separates frontend interaction from backend AI processing                                         |
+| **Impact**                    | Fixed recurring title-duplication behavior through prompt-level controls and delivered a usable end-to-end application |
+| **Repository**                | [github.com/singh-105/agntic-blog-generation](https://github.com/singh-105/agntic-blog-generation)                     |
+| **Live App**                  | [Streamlit App](https://agntic-blog-generation-kv4avhdgfeghgazpkrbn4w.streamlit.app/)                                  |
 
 </details>
 
 <details>
-<summary><b>📦 Other Repositories</b></summary>
-<br/>
+<summary><strong>⚡ Cortex-Lite — Hybrid Token-Efficient Routing Agent</strong></summary>
 
-| Project | Description | Repository |
-|---|---|---|
-| **Ai-news-summarizer** | Python-based news summarization tool | [Repo](https://github.com/singh-105/Ai-news-summarizer) |
-| **NetworkSecurity** | Python security-focused project | [Repo](https://github.com/singh-105/NetworkSecurity) |
-| **websearch-ai** | Python web-search AI tool | [Repo](https://github.com/singh-105/websearch-ai) |
+<br>
+
+A routing agent developed for the **AMD Developer Hackathon Act II — Hybrid Token-Efficient Routing** track.
+
+| Dimension                     | Engineering Details                                                                                 |
+| ----------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Stack**                     | FastAPI · SQLite · React · Vite · Ollama · Qwen 2.5 0.5B · Groq · LLaMA 3.1 8B                      |
+| **Scale**                     | Dual-path inference architecture with local-first execution and cloud escalation                    |
+| **Performance / Reliability** | Routes requests according to complexity to balance local inference with larger cloud models         |
+| **Security**                  | Separates local inference from cloud escalation paths                                               |
+| **Impact**                    | Demonstrated routed tool usage through live `wttr.in` integration rather than static classification |
+| **Repository**                | Public repository link not listed on the current profile README                                     |
 
 </details>
 
-<br/>
+<details>
+<summary><strong>📦 Other Repositories</strong></summary>
+
+<br>
+
+| Project                | Description                          | Repository                                                    |
+| ---------------------- | ------------------------------------ | ------------------------------------------------------------- |
+| **Ai-news-summarizer** | Python-based news summarization tool | [Repository](https://github.com/singh-105/Ai-news-summarizer) |
+| **NetworkSecurity**    | Python security-focused project      | [Repository](https://github.com/singh-105/NetworkSecurity)    |
+| **websearch-ai**       | Python web-search AI tool            | [Repository](https://github.com/singh-105/websearch-ai)       |
+
+</details>
 
 ---
-
-<br/>
 
 ## 💼 Experience
 
-**Artificial Intelligence Intern**
-*DeepCytes Cyber Labs (UK)* · April 2026 – Present
+### Artificial Intelligence Intern · Deep Cytes Cyber Labs
 
-Building a customer support chatbot from the ground up — conversation flow design, LLM integration, and response quality tuning. Working hands-on with real-world constraints (latency, accuracy, edge-case handling) that don't show up in tutorials.
+**April 2026 – Present**
 
-- Designed and iterated on multi-turn conversation flows for a production support chatbot
-- Integrated and tuned LLM responses for accuracy under real user queries
-- Worked directly with latency and edge-case constraints outside a tutorial environment
+Building a customer-support chatbot from the ground up, working across conversation flow design, LLM integration and response-quality tuning under real-world constraints.
+
+* Designed and iterated multi-turn conversation flows for a production support chatbot
+* Integrated and tuned LLM responses for accuracy against real user queries
+* Worked directly with latency, accuracy and edge-case constraints
 
 `LLM Integration` `Conversation Design` `Response Tuning` `Production Constraints`
 
-<br/>
+### Machine Learning Intern · Future Interns
 
-**Machine Learning Intern**
-*Future Interns* · December 2025 – June 2026
+**December 2025 – June 2026**
 
-Applied ML workflows covering model building, evaluation, and feature engineering on real datasets.
+Applied machine-learning workflows covering model building, evaluation and feature engineering on real datasets.
 
-- Built and evaluated ML models against real-world datasets
-- Engineered features to improve model performance
-- Worked through applied, end-to-end ML workflows outside a coursework setting
+* Built and evaluated ML models against real-world datasets
+* Engineered features to improve model performance
+* Worked through applied, end-to-end ML workflows outside coursework
 
 `Model Building` `Evaluation` `Feature Engineering`
 
-<br/>
-
 ---
-
-<br/>
 
 ## 🏆 Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **Google Vibe2Ship Hackathon** | Built and shipped CivicPulse, a full-stack civic-issue platform, end-to-end within the event timeline |
-| **AMD Developer Hackathon — Act II** | Built Cortex-Lite for the Hybrid Token-Efficient Routing Agent track |
-| **Samsung Solve for Tomorrow 2026** | Ideation round — proposed India-focused AI solutions built on Samsung hardware |
+| Recognition                          | Details                                                                                               |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Google Vibe2Ship Hackathon**       | Built and shipped CivicPulse, a full-stack civic-issue platform, end-to-end within the event timeline |
+| **AMD Developer Hackathon — Act II** | Built Cortex-Lite for the Hybrid Token-Efficient Routing Agent track                                  |
+| **Samsung Solve for Tomorrow 2026**  | Ideation round — proposed India-focused AI solutions built on Samsung hardware                        |
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## 📜 Certifications
 
-<div align="center">
-
-![GenAI Data Analytics](https://img.shields.io/badge/GenAI%20Powered%20Data%20Analytics-Job%20Simulation-6A0DAD?style=flat-square&logoColor=white)
-![DS ML DL NLP Bootcamp](https://img.shields.io/badge/Data%20Science%2C%20ML%2C%20DL%20%26%20NLP-Bootcamp%20(Python)-8E2DE2?style=flat-square)
-![Cyber Smart AI](https://img.shields.io/badge/Cyber%20Smart%20AI%20Prime-Internship%20Program-4B2E83?style=flat-square)
-![ML Internship](https://img.shields.io/badge/Machine%20Learning-Internship%20Program-5B2A86?style=flat-square)
-
-</div>
-
-<br/>
+No public certifications are currently listed on the GitHub profile.
 
 ---
 
-<br/>
+## 💻 Coding Profiles
+
+<div align="center">
+
+No verified public LeetCode, GeeksforGeeks, HackerRank, or CodeChef profile links are currently listed on the GitHub profile.
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=singh-105&show_icons=true&hide_border=true&title_color=B983FF&icon_color=8E2DE2&text_color=D9C6FF&bg_color=1A1A2E" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=singh-105&hide_border=true&ring=B983FF&fire=8E2DE2&currStreakLabel=B983FF&background=1A1A2E&stroke=1A1A2E" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=singh-105&show_icons=true&hide_border=true&bg_color=020617&title_color=7dd3fc&icon_color=38bdf8&text_color=cbd5e1&ring_color=0ea5e9" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-105&layout=compact&hide_border=true&title_color=B983FF&text_color=D9C6FF&bg_color=1A1A2E" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-105&layout=compact&hide_border=true&bg_color=020617&title_color=7dd3fc&text_color=cbd5e1" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=singh-105&hide_border=true&background=020617&ring=38bdf8&fire=0ea5e9&currStreakLabel=7dd3fc&sideLabels=94a3b8&dates=64748b&currStreakNum=e0f2fe&sideNums=e0f2fe" />
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=singh-105&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=singh-105&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singh-105&theme=react-dark&hide_border=true&bg_color=1A1A2E&color=B983FF&line=8E2DE2&point=E6D6FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singh-105&bg_color=020617&color=7dd3fc&line=0ea5e9&point=e0f2fe&area=true&hide_border=true" width="100%" />
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/singh-105/singh-105/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<sub>Snake animation renders once the <code>github-contribution-grid-snake</code> Action is configured on the <a href="https://github.com/singh-105/singh-105">profile repo</a>.</sub>
-
-</div>
-
-<br/>
 
 ---
 
-<br/>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/singh-105/singh-105/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Transformer / Encoder Internals
+  - LangGraph Orchestration Patterns
+
+Building:
+  - Production Customer-Support AI @ Deep Cytes
+
+Exploring:
+  - Computer Vision
+  - SEM Wafer-Defect Detection Research
+
+Open To:
+  - AI/ML Engineering Roles
+  - Hackathons
+  - Open-Source Projects
+  - Hard Engineering Problems
+```
+
+---
 
 ## 📬 Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/manojrsingh1974@gmail.com-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojrsingh1974@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/harsh--singh--5503372b8-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-singh-5503372b8/)
-[![GitHub](https://img.shields.io/badge/singh--105-1A1A2E?style=for-the-badge&logo=github&logoColor=B983FF)](https://github.com/singh-105)
+[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge\&logo=gmail\&logoColor=38bdf8)](https://github.com/singh-105)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge\&logo=linkedin\&logoColor=38bdf8)](https://www.linkedin.com/in/harsh-singh-5503372b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/singh-105)
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-*"I learn by shipping — most of what I know came from building something real, breaking it, and fixing it under a deadline."*
+> **“I learn by shipping — most of what I know came from building something real, breaking it, and fixing it under a deadline.”**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:5B2A86,100:1A1A2E&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:0f172a,100:020617&height=120&section=footer" width="100%" />
 
 </div>
