@@ -1,42 +1,42 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=002244&height=200&section=header&text=Harsh%20Singh&fontSize=50&fontColor=00BFFF&animation=fadeIn&desc=Building%20Agentic%20AI%20%26%20GenAI%20Systems&descAlignY=70&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=001122&height=200&section=header&text=Harsh%20Singh&fontSize=50&fontColor=8A2BE2&animation=fadeIn&desc=Building%20Agentic%20AI%20%26%20GenAI%20Systems&descAlignY=70&descAlign=62" alt="Header Banner" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Expert;Full-Stack+Developer;Agentic+AI+Builder" alt="Typing SVG" />
 
   <br />
-  <img src="https://img.shields.io/badge/BTech-Computer_Science_%26_Data_Science-001133?style=for-the-badge&logo=google-scholar&logoColor=00BFFF" alt="Degree" />
-  <img src="https://img.shields.io/badge/Student-Lokmanya_Tilak_College_of_Engineering-001133?style=for-the-badge&logo=academia&logoColor=00BFFF" alt="College" />
+  <img src="https://img.shields.io/badge/BTech-Computer_Science_%26_Data_Science-000B18?style=for-the-badge&logo=google-scholar&logoColor=8A2BE2" alt="Degree" />
+  <img src="https://img.shields.io/badge/Student-Lokmanya_Tilak_College_of_Engineering-000B18?style=for-the-badge&logo=academia&logoColor=8A2BE2" alt="College" />
 
   <br />
-  <img src="https://img.shields.io/badge/Location-Mumbai,_India-001133?style=for-the-badge&logo=google-maps&logoColor=00BFFF" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Mumbai,_India-000B18?style=for-the-badge&logo=google-maps&logoColor=8A2BE2" alt="Location" />
 
   <br />
-  <a href="https://github.com/singh-105"><img src="https://img.shields.io/badge/Portfolio-000B18?style=for-the-badge&logo=Web&logoColor=00BFFF" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/harsh-singh-5503372b8"><img src="https://img.shields.io/badge/LinkedIn-000B18?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn" /></a>
-  <a href="mailto:manojrsingh1974@gmail.com"><img src="https://img.shields.io/badge/Email-000B18?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email" /></a>
-  <a href="https://github.com/singh-105"><img src="https://img.shields.io/badge/GitHub-000B18?style=for-the-badge&logo=github&logoColor=00BFFF" alt="GitHub" /></a>
+  <a href="https://github.com/singh-105"><img src="https://img.shields.io/badge/Portfolio-00050D?style=for-the-badge&logo=Web&logoColor=8A2BE2" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/harsh-singh-5503372b8"><img src="https://img.shields.io/badge/LinkedIn-00050D?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" /></a>
+  <a href="mailto:manojrsingh1974@gmail.com"><img src="https://img.shields.io/badge/Email-00050D?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" /></a>
+  <a href="https://github.com/singh-105"><img src="https://img.shields.io/badge/GitHub-00050D?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="GitHub" /></a>
 
   <br />
-  <img src="https://komarev.com/ghpvc/?username=singh-105&color=002244&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/singh-105?color=002244&style=for-the-badge&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/singh-105?color=002244&style=for-the-badge&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=singh-105&color=001122&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/singh-105?color=001122&style=for-the-badge&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/singh-105?color=001122&style=for-the-badge&label=Stars" alt="Stars" />
 </div>
 
 ---
 
-## 2. About Me
+## 2. About Section
 
 I build AI systems that leave the notebook and actually ship[cite: 1]. My range spans the full stack: classic ML/DL and NLP (transformers, fine-tuning, feature engineering) through to modern agentic AI and GenAI products[cite: 1]. I focus on creating multi-step pipelines that reason, retrieve, and act, embracing a strong product engineering mindset[cite: 1].
 
 *   **Software Engineering:** Building robust applications using Python, TypeScript, React, Next.js, and FastAPI[cite: 1].
 *   **AI/ML Expertise:** Specialized in Agentic AI, NLP, Transformers, LangChain, LangGraph, and RAG pipelines[cite: 1].
 *   **Full Stack Development:** Architecting solutions from database schema to dynamic, real-time frontend deployments.
-*   **Product Mindset:** Learning by shipping—breaking and fixing under deadlines to build production-ready customer support AI[cite: 1].
+*   **Product Engineering Mindset:** Learning by shipping—breaking and fixing under deadlines to build production-ready customer support AI[cite: 1].
 *   **Open To:** AI/ML engineering roles, hackathons, and interesting technical problems[cite: 1].
 
 ---
 
-## 3. Tech Stack
+## 3. Tech Stack Section
 
 <div align="center">
   <p><strong>Languages</strong></p>
@@ -54,7 +54,7 @@ I build AI systems that leave the notebook and actually ship[cite: 1]. My range 
 
 ---
 
-## 4. AI / ML Expertise
+## 4. AI / ML Expertise Section
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
@@ -65,7 +65,7 @@ I build AI systems that leave the notebook and actually ship[cite: 1]. My range 
 
 ---
 
-## 5. Featured Projects
+## 5. Featured Projects Section
 
 <details>
   <summary><b>CivicPulse</b></summary>
@@ -137,7 +137,7 @@ I build AI systems that leave the notebook and actually ship[cite: 1]. My range 
 
 ---
 
-## 6. Experience
+## 6. Experience Section
 
 **Artificial Intelligence Intern**
 *DeepCytes Cyber Labs (UK)*
@@ -151,14 +151,14 @@ Building a production customer-support AI chatbot from the ground up[cite: 1].
 **Machine Learning Intern**
 *Future Interns*
 *December 2025 – June 2026*
-Focused on applied machine learning workflows and dataset evaluation[cite: 1].
+Completed a machine learning internship focused on applied ML workflows[cite: 1].
 *   Built, evaluated, and optimized ML models on real-world datasets[cite: 1].
 *   Executed comprehensive feature engineering protocols to enhance model accuracy[cite: 1].
-*   Deployed algorithms to streamline predictive analytics tasks[cite: 1].
+*   Deployed algorithms to streamline predictive analytics tasks.
 *Tags: Machine Learning, Feature Engineering, Data Evaluation*
 
-**Cyber Security Intern**
-*NIIT Foundation AI Prime*
+**AI Prime in Cyber Security Intern**
+*NIIT Foundation*
 *Pre-2026*
 Focused on foundational cyber smart initiatives and data protection[cite: 1].
 *   Engaged with practical cyber security awareness methodologies[cite: 1].
@@ -167,7 +167,7 @@ Focused on foundational cyber smart initiatives and data protection[cite: 1].
 
 ---
 
-## 7. Achievements
+## 7. Achievements Section
 
 <div align="center">
 
@@ -181,63 +181,67 @@ Focused on foundational cyber smart initiatives and data protection[cite: 1].
 
 ---
 
-## 8. Certifications
+## 8. Certifications Section
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GenAI-Powered_Data_Analytics_Job_Simulation-001133?style=for-the-badge&logo=awsorganizations&logoColor=00BFFF" alt="GenAI Cert" />
-  <img src="https://img.shields.io/badge/Bootcamp-Data_Science,_ML,_DL_%26_NLP-001133?style=for-the-badge&logo=python&logoColor=00BFFF" alt="Bootcamp" />
-  <img src="https://img.shields.io/badge/Internship_Program-Cyber_Smart_AI_Prime-001133?style=for-the-badge&logo=cisco&logoColor=00BFFF" alt="Cyber Smart" />
-  <img src="https://img.shields.io/badge/Internship_Program-Machine_Learning-001133?style=for-the-badge&logo=ibm&logoColor=00BFFF" alt="ML Intern" />
+  <img src="https://img.shields.io/badge/GenAI-Powered_Data_Analytics_Job_Simulation-000B18?style=for-the-badge&logo=awsorganizations&logoColor=8A2BE2" alt="GenAI Cert" />
+  <img src="https://img.shields.io/badge/Bootcamp-Data_Science,_ML,_DL_%26_NLP-000B18?style=for-the-badge&logo=python&logoColor=8A2BE2" alt="Bootcamp" />
+  <img src="https://img.shields.io/badge/Internship_Program-Cyber_Smart_AI_Prime-000B18?style=for-the-badge&logo=cisco&logoColor=8A2BE2" alt="Cyber Smart" />
+  <img src="https://img.shields.io/badge/Internship_Program-Machine_Learning-000B18?style=for-the-badge&logo=ibm&logoColor=8A2BE2" alt="ML Intern" />
 </div>
 
 ---
 
-## 9. Coding Profiles
+## 9. Coding Profiles Section
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-000B18?style=for-the-badge&logo=leetcode&logoColor=00BFFF" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-000B18?style=for-the-badge&logo=geeksforgeeks&logoColor=00BFFF" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-000B18?style=for-the-badge&logo=hackerrank&logoColor=00BFFF" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-000B18?style=for-the-badge&logo=codechef&logoColor=00BFFF" alt="CodeChef" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-00050D?style=for-the-badge&logo=leetcode&logoColor=8A2BE2" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-00050D?style=for-the-badge&logo=geeksforgeeks&logoColor=8A2BE2" alt="GeeksforGeeks" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-00050D?style=for-the-badge&logo=hackerrank&logoColor=8A2BE2" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-00050D?style=for-the-badge&logo=codechef&logoColor=8A2BE2" alt="CodeChef" /></a>
 </div>
 
 ---
 
-## 10. GitHub Analytics
+## 10. GitHub Analytics Section
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singh-105&theme=algolia&hide_border=true&bg_color=000B18&title_color=00BFFF&text_color=58A6FF&icon_color=00BFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singh-105&theme=algolia&hide_border=true&background=000B18&ring=00BFFF&fire=00BFFF&currStreakNum=58A6FF" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-105&theme=algolia&hide_border=true&bg_color=000B18&title_color=00BFFF&text_color=58A6FF&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singh-105&theme=midnight-purple&hide_border=true&bg_color=000B18&title_color=8A2BE2&text_color=00BFFF&icon_color=8A2BE2" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singh-105&theme=midnight-purple&hide_border=true&background=000B18&ring=8A2BE2&fire=8A2BE2&currStreakNum=00BFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-105&theme=midnight-purple&hide_border=true&bg_color=000B18&title_color=8A2BE2&text_color=00BFFF&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
-## 11. GitHub Trophies
+## 11. GitHub Trophies Section
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singh-105&theme=gitdark&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=singh-105&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
 </div>
 
 ---
 
-## 12. Contribution Activity
+## 12. Contribution Activity Section
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singh-105&bg_color=000B18&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singh-105&bg_color=000B18&color=00BFFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 13. Contribution Snake
+## 13. Contribution Snake Section
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/singh-105/singh-105/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singh-105/singh-105/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singh-105/singh-105/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/singh-105/singh-105/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-## 14. Current Focus
+## 14. Current Focus Section
 
 ```yaml
 Current_Status:
