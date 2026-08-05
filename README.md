@@ -64,7 +64,9 @@ Focus:
 
 ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![Sklearn](https://skillicons.dev/icons?i=sklearn&theme=dark)
 
-`LangChain` `LangGraph` `RAG Pipelines` `Transformers` `Groq LLaMA` `Ollama`
+![LangChain / LangGraph](https://cdn.simpleicons.org/langchain/1C3C3C) ![Groq](https://cdn.simpleicons.org/groq/F55036) ![Ollama](https://cdn.simpleicons.org/ollama/E8F1FF) ![Hugging Face Transformers](https://cdn.simpleicons.org/huggingface/FFD21E)
+
+`RAG Pipelines`
 
 **Frontend**
 
@@ -172,11 +174,7 @@ A routing agent that decides, in real time, whether a query needs a fast local m
 **Artificial Intelligence Intern**
 *DeepCytes Cyber Labs (UK)* · April 2026 – Present
 
-Building a customer support chatbot from the ground up — conversation flow design, LLM integration, and response quality tuning. Working hands-on with real-world constraints (latency, accuracy, edge-case handling) that don't show up in tutorials.
-
-- Designed and iterated on multi-turn conversation flows for a production support chatbot
-- Integrated and tuned LLM responses for accuracy under real user queries
-- Worked directly with latency and edge-case constraints outside a tutorial environment
+Building a customer support chatbot from the ground up — conversation flow design, LLM integration, and response quality tuning, working within real-world constraints (latency, accuracy, edge-case handling) that don't show up in tutorials.
 
 `LLM Integration` `Conversation Design` `Response Tuning` `Production Constraints`
 
@@ -185,13 +183,18 @@ Building a customer support chatbot from the ground up — conversation flow des
 **Machine Learning Intern**
 *Future Interns* · December 2025 – June 2026
 
-Applied ML workflows covering model building, evaluation, and feature engineering on real datasets.
-
-- Built and evaluated ML models against real-world datasets
-- Engineered features to improve model performance
-- Worked through applied, end-to-end ML workflows outside a coursework setting
+Applied ML workflows — model building, evaluation, and feature engineering on real datasets.
 
 `Model Building` `Evaluation` `Feature Engineering`
+
+<br/>
+
+**AI Prime Cybersecurity Intern**
+*NIIT Foundation* · March 2026
+
+One-month program covering AI-driven cybersecurity fundamentals — threat awareness, data protection, and applied AI/cyber concepts.
+
+`Cybersecurity` `Cyber Security Awareness` `Data Protection`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,50:185ADB,100:00E5FF&height=3&width=1000" width="100%"/>
 
@@ -249,6 +252,18 @@ Applied ML workflows covering model building, evaluation, and feature engineerin
 <img height="165" src="https://streak-stats.demolab.com/?user=singh-105&hide_border=true&background=0A1931&stroke=0A1931&ring=00E5FF&fire=4FD6E8&currStreakLabel=00E5FF&currStreakNum=E8F1FF&sideNums=E8F1FF&sideLabels=9FD8E8&dates=8AA9C4" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-105&layout=compact&hide_border=true&title_color=00E5FF&text_color=B8C6DB&bg_color=0A1931" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,50:185ADB,100:00E5FF&height=3&width=1000" width="100%"/>
+
+<br/>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=singh-105&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10" />
 
 </div>
 
