@@ -64,7 +64,6 @@ Focus:
 
 ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![Sklearn](https://skillicons.dev/icons?i=sklearn&theme=dark)
 
-![LangChain / LangGraph](https://cdn.simpleicons.org/langchain/1C3C3C) ![Groq](https://cdn.simpleicons.org/groq/F55036) ![Ollama](https://cdn.simpleicons.org/ollama/E8F1FF) ![Hugging Face Transformers](https://cdn.simpleicons.org/huggingface/FFD21E)
 
 `RAG Pipelines`
 
