@@ -180,7 +180,7 @@ Building a customer support chatbot from the ground up — conversation flow des
 <br/>
 
 **Machine Learning Intern**
-*Future Interns* · December 2025 – June 2026
+*Future Interns* · Januray2026 – Febuaray 2026
 
 Applied ML workflows — model building, evaluation, and feature engineering on real datasets.
 
