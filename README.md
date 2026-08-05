@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1931,50:185ADB,100:00E5FF&height=230&section=header&text=Harsh%20Singh&fontSize=54&fontColor=E8F1FF&animation=fadeIn&fontAlignY=36&desc=Building%20Agentic%20AI%20%26%20GenAI%20Systems&descAlignY=58&descSize=18&descColor=9FD8E8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1931,50:185ADB,100:00E5FF&height=230&section=header&text=Harsh%20Singh&fontSize=54&fontColor=E8F1FF&animation=fadeIn&fontAlignY=36&desc=Building%20Agentic%20AI%20and%20GenAI%20Systems&descAlignY=58&descSize=18&descColor=9FD8E8" width="100%"/>
 
 <a href="https://github.com/singh-105">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=4FD6E8&center=true&vCenter=true&width=700&lines=ML%2FDL+%C2%B7+NLP+%C2%B7+Transformers;LangChain+%C2%B7+LangGraph+%C2%B7+RAG+Pipelines;Agentic+AI+%C2%B7+FastAPI+%C2%B7+Next.js%2FTypeScript;I+learn+by+shipping%2C+not+by+watching." alt="Typing SVG" />
@@ -217,15 +217,8 @@ Applied ML workflows covering model building, evaluation, and feature engineerin
 
 <div align="center">
 
-<!-- Keep only the rows for badges you've actually earned — check github.com/singh-105?tab=achievements -->
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" title="Pull Shark" />
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" title="Quickdraw" />
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="YOLO" title="YOLO" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" height="60" alt="Galaxy Brain" title="Galaxy Brain" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="Starstruck" title="Starstruck" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="60" height="60" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
 
 </div>
 
@@ -253,7 +246,7 @@ Applied ML workflows covering model building, evaluation, and feature engineerin
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=singh-105&show_icons=true&hide_border=true&title_color=00E5FF&icon_color=185ADB&text_color=B8C6DB&bg_color=0A1931" />
-<img height="165" src="https://streak-stats.demolab.com/?user=singh-105&hide_border=true&ring=00E5FF&fire=4FD6E8&currStreakLabel=00E5FF&background=0A1931&stroke=0A1931" />
+<img height="165" src="https://streak-stats.demolab.com/?user=singh-105&hide_border=true&background=0A1931&stroke=0A1931&ring=00E5FF&fire=4FD6E8&currStreakLabel=00E5FF&currStreakNum=E8F1FF&sideNums=E8F1FF&sideLabels=9FD8E8&dates=8AA9C4" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-105&layout=compact&hide_border=true&title_color=00E5FF&text_color=B8C6DB&bg_color=0A1931" />
 
