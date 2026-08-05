@@ -258,18 +258,6 @@ One-month program covering AI-driven cybersecurity fundamentals — threat aware
 
 <br/>
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=singh-105&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,50:185ADB,100:00E5FF&height=3&width=1000" width="100%"/>
-
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
