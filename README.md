@@ -213,6 +213,26 @@ Applied ML workflows covering model building, evaluation, and feature engineerin
 
 <br/>
 
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+<!-- Keep only the rows for badges you've actually earned — check github.com/singh-105?tab=achievements -->
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" title="Pull Shark" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" title="Quickdraw" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="YOLO" title="YOLO" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" height="60" alt="Galaxy Brain" title="Galaxy Brain" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="Starstruck" title="Starstruck" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="60" height="60" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,50:185ADB,100:00E5FF&height=3&width=1000" width="100%"/>
+
+<br/>
+
 ## 📜 Certifications
 
 <div align="center">
