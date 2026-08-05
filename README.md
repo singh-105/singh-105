@@ -233,7 +233,7 @@ Applied ML workflows covering model building, evaluation, and feature engineerin
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=singh-105&show_icons=true&hide_border=true&title_color=00E5FF&icon_color=185ADB&text_color=B8C6DB&bg_color=0A1931" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=singh-105&hide_border=true&ring=00E5FF&fire=4FD6E8&currStreakLabel=00E5FF&background=0A1931&stroke=0A1931" />
+<img height="165" src="https://streak-stats.demolab.com/?user=singh-105&hide_border=true&ring=00E5FF&fire=4FD6E8&currStreakLabel=00E5FF&background=0A1931&stroke=0A1931" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-105&layout=compact&hide_border=true&title_color=00E5FF&text_color=B8C6DB&bg_color=0A1931" />
 
