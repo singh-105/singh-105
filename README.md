@@ -58,34 +58,27 @@ Focus:
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=py&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+<img height="48" src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" /> <img height="48" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /> <img height="48" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
 
 **AI / ML / GenAI**
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![Sklearn](https://skillicons.dev/icons?i=sklearn&theme=dark)
-
-![LangChain / LangGraph](https://cdn.simpleicons.org/langchain/1C3C3C) ![Groq](https://cdn.simpleicons.org/groq/F55036) ![Ollama](https://cdn.simpleicons.org/ollama/E8F1FF) ![Hugging Face Transformers](https://cdn.simpleicons.org/huggingface/FFD21E)
+<img height="48" src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" /> <img height="48" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" /> <img height="48" src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" /> <img height="48" src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain / LangGraph" /> <img height="48" src="https://cdn.simpleicons.org/groq/F55036" alt="Groq" /> <img height="48" src="https://cdn.simpleicons.org/ollama/E8F1FF" alt="Ollama" /> <img height="48" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face Transformers" />
 
 `RAG Pipelines`
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
+<img height="48" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /> <img height="48" src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" /> <img height="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS" />
 
 **Backend & Databases**
 
-![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
+<img height="48" src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /> <img height="48" src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" /> <img height="48" src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" />
 
 **Cloud, DevOps & Tooling**
 
-![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+<img height="48" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /> <img height="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /> <img height="48" src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" /> <img height="48" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,50:185ADB,100:00E5FF&height=3&width=1000" width="100%"/>
-
-<br/>
-
 ## 🤖 AI / ML Expertise
 
 <div align="center">
